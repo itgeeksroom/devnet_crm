@@ -49,7 +49,7 @@ class Database:
 
             # Style added in module 4
             return f"{bal:.2f} USD"
-            how are you my friend
+
             # Style added in module 3
             # return f"$ {bal:.2f}"
 
